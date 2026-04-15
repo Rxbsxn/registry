@@ -5720,6 +5720,47 @@
       "updated": "2026-04-14"
     },
     {
+      "name": "nikke_e_h__99b110e0",
+      "display_name": "Nikke E.H. AI generated",
+      "version": "1.0.0",
+      "description": "sound pack of Nikke E.H. AI generated",
+      "author": {
+        "name": "LiRiu",
+        "github": "LiRiu"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit"
+      ],
+      "language": "ko",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 16,
+      "total_size_bytes": 821760,
+      "source_repo": "LiRiu/NIKKE-E.H.-99b110e0-pack",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "73ff1277e613253a761b0d6df5be8973de6ee2d330fb02406928dc88d638ee68",
+      "tags": [
+        "nikke",
+        "AI"
+      ],
+      "preview_sounds": [
+        "sounds/1.mp3",
+        "sounds/4.mp3",
+        "sounds/7.mp3",
+        "sounds/10.mp3",
+        "sounds/13.mp3",
+        "sounds/15.mp3"
+      ],
+      "added": "2026-04-15",
+      "updated": "2026-04-15"
+    },
+    {
       "name": "nizar",
       "display_name": "Nizar (Stronghold Crusader)",
       "version": "1.2.1",
